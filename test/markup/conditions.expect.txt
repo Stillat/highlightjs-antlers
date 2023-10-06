@@ -1,0 +1,9 @@
+<span class="hljs-template-tag">{{ </span><span class="hljs-variable">string</span> = <span class="hljs-string">&quot;Hello&quot;</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+ 
+</span><span class="hljs-template-tag">{{ </span><span class="hljs-name">if</span> <span class="hljs-variable">something</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+  </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">string</span> += <span class="hljs-string">&quot; World&quot;</span><span class="hljs-template-tag">}}</span><span class="language-xml">
+</span><span class="hljs-template-tag">{{ </span><span class="hljs-name">else</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+  </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">string</span> += <span class="hljs-string">&quot; Universe&quot;</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+</span><span class="hljs-template-tag">{{ /</span><span class="hljs-name">if</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+ 
+</span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">string</span><span class="hljs-template-tag"> }}</span>

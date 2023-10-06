@@ -1,0 +1,9 @@
+<?php
+
+if ($this->thing) {}
+
+?>
+
+{{? $that->thing ?}}
+{{? $that->thing + ($somethingElse + 'asdf') ?}}
+{{$ $that->thing + ($somethingElse + 'asdf') $}}

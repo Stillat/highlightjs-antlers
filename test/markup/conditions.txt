@@ -1,0 +1,9 @@
+{{ string = "Hello" }}
+ 
+{{ if something }}
+  {{ string += " World"}}
+{{ else }}
+  {{ string += " Universe" }}
+{{ /if }}
+ 
+{{ string }}

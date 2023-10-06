@@ -1,0 +1,1 @@
+<span class="hljs-template-tag">{{ </span><span class="hljs-variable">variable_name</span> | <span class="hljs-title">modifier</span>([<span class="hljs-string">&#x27;test&#x27;</span>], <span class="hljs-string">&#x27;parameter two&#x27;</span>)<span class="hljs-template-tag"> }}</span>

@@ -1,0 +1,4 @@
+{{ summary | replace('worst', 'yummiest') }}
+{{ summary | replace('It was', 'It was also') | replace('times', $noun) }}
+{{ summary | explode(' ') | ul }}
+{{ (summary | contains('best')) ?= "It was lunch, is what it was {title} {collection:articles as="posts{title{'title' | upper }}"}." }}

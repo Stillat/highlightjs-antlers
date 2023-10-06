@@ -1,0 +1,9 @@
+<span class="hljs-template-tag">{{ </span><span class="hljs-name">scope</span>:<span class="hljs-variable">stuff</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+    </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">title</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+ 
+    </span><span class="hljs-template-tag">{{ </span><span class="hljs-name">collection</span>:<span class="hljs-variable">blog</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+        </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">title</span><span class="hljs-template-tag"> }}</span><span class="language-xml"> // The title of the entry in the loop.
+        </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">stuff</span>:<span class="hljs-variable">title</span><span class="hljs-template-tag"> }}</span><span class="language-xml"> // The title variable at the time the scope tag was used.
+    </span><span class="hljs-template-tag">{{ /</span><span class="hljs-name">collection</span>:<span class="hljs-variable">blog</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+ 
+</span><span class="hljs-template-tag">{{ /</span><span class="hljs-name">scope</span>:<span class="hljs-variable">stuff</span><span class="hljs-template-tag"> }}</span>

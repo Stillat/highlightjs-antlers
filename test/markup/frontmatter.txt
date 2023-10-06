@@ -1,0 +1,9 @@
+---
+active_classes: 'font-bold bg-gray-100 rounded-lg py-1 px-3 text-blue-600'
+inactive_classes: 'text-gray-950 py-1 px-3'
+---
+
+
+<div>
+    {{ title }}
+</div>

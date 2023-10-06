@@ -1,0 +1,9 @@
+<span class="language-php"><span class="hljs-meta">&lt;?php</span>
+
+<span class="hljs-keyword">if</span> (<span class="hljs-variable language_">$this</span>-&gt;thing) {}
+
+<span class="hljs-meta">?&gt;</span></span><span class="language-xml">
+
+</span><span class="hljs-template-tag">{{</span>? <span class="hljs-variable">$that-</span>&gt;<span class="hljs-variable">thing</span> ?<span class="hljs-template-tag">}}</span><span class="language-xml">
+</span><span class="hljs-template-tag">{{</span>? <span class="hljs-variable">$that-</span>&gt;<span class="hljs-variable">thing</span> + (<span class="hljs-variable">$somethingElse</span> + <span class="hljs-string">&#x27;asdf&#x27;</span>) ?<span class="hljs-template-tag">}}</span><span class="language-xml">
+</span><span class="hljs-template-tag">{{</span>$ <span class="hljs-variable">$that-</span>&gt;<span class="hljs-variable">thing</span> + (<span class="hljs-variable">$somethingElse</span> + <span class="hljs-string">&#x27;asdf&#x27;</span>) $<span class="hljs-template-tag">}}</span>

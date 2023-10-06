@@ -1,0 +1,19 @@
+{
+    "name": "highlightjs-antlers",
+    "version": "1.0.0",
+    "main": "src/antlers.js",
+    "description": "Provides syntax highlighting for Antlers, a templating language for Statamic.",
+    "keywords": [
+        "antlers",
+        "statamic",
+        "hljs",
+        "highlightjs",
+        "highlight.js"
+    ],
+    "author": "John Koster",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Stillat/highlightjs-antlers.git"
+    },
+    "license": "CC0-1.0"
+}

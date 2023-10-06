@@ -1,0 +1,9 @@
+<span class="language-yaml"><span class="hljs-meta">---</span>
+<span class="hljs-attr">sports:</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">BMXing</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">rollerblading</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">skateboarding</span>
+  <span class="hljs-bullet">-</span> <span class="hljs-string">scootering</span>
+<span class="hljs-meta">---</span></span><span class="language-xml">
+ 
+<span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>Let&#x27;s go </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">sports</span>:<span class="hljs-number">0</span><span class="hljs-template-tag"> }}</span><span class="language-xml">, </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">sports</span>.<span class="hljs-number">1</span><span class="hljs-template-tag"> }}</span><span class="language-xml"> or </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">sports</span>[<span class="hljs-number">2</span>]<span class="hljs-template-tag"> }}</span><span class="language-xml">.<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span></span>

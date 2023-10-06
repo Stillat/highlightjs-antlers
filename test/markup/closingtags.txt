@@ -1,0 +1,9 @@
+{{ scope:stuff }}
+    {{ title }}
+ 
+    {{ collection:blog }}
+        {{ title }} // The title of the entry in the loop.
+        {{ stuff:title }} // The title variable at the time the scope tag was used.
+    {{ /collection:blog }}
+ 
+{{ /scope:stuff }}

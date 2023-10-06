@@ -1,0 +1,9 @@
+<span class="language-yaml"><span class="hljs-meta">---</span>
+<span class="hljs-attr">active_classes:</span> <span class="hljs-string">&#x27;font-bold bg-gray-100 rounded-lg py-1 px-3 text-blue-600&#x27;</span>
+<span class="hljs-attr">inactive_classes:</span> <span class="hljs-string">&#x27;text-gray-950 py-1 px-3&#x27;</span>
+<span class="hljs-meta">---</span></span><span class="language-xml">
+
+
+<span class="hljs-tag">&lt;<span class="hljs-name">div</span>&gt;</span>
+    </span><span class="hljs-template-tag">{{ </span><span class="hljs-variable">title</span><span class="hljs-template-tag"> }}</span><span class="language-xml">
+<span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></span>

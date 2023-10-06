@@ -1,0 +1,9 @@
+---
+sports:
+  - BMXing
+  - rollerblading
+  - skateboarding
+  - scootering
+---
+ 
+<p>Let's go {{ sports:0 }}, {{ sports.1 }} or {{ sports[2] }}.</p>
